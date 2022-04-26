@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611704892 source:c:\users\ahmad nouh\desktop\college\term 3\programming\final project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1614344437 source:c:\users\ahmad nouh\desktop\college\term 3\programming\final project\myfinalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
